@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "グッバイ・マイマリー",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-16T09:10:04.753564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッバイ・マイマリー",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/01_グッバイ・マイマリー_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッバイ・マイマリー",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_グッバイ・マイマリー_My_Hair_is_Bad.txt"
+    }
+  ]
+}
